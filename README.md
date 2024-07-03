@@ -5,7 +5,7 @@ Fix absurd crash of Zenless Zone Zero on Intel UHD GPUs by forcing the game to u
 # How to use it? 
 Just run the exe and test with these options!
 
-![image](https://github.com/ShadowyLycan990/ZenlessZoneZero-render-fix/assets/92839483/24ed89bf-7b24-4bfb-a0a4-9c5d9ad98cb6)
+![image](https://github.com/ShadowyLycan990/ZenlessZoneZero-render-fix/assets/92839483/085a07f9-7523-4b25-a7ad-4379e57ea676)
 
 And you can create shortcut to your desktop so you don't need to open this tool anymore!
 
