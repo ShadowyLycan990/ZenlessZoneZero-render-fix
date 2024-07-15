@@ -1,17 +1,16 @@
 # ZenlessZoneZero-render-fix
-Fix absurd crash of Zenless Zone Zero on Intel UHD GPUs by forcing the game to use the available renderers that you can choose!
+Fix absurd crash of Zenless Zone Zero on certain GPUs by replacing the UnityPlayer file with the updated one!
 
 
 # How to use it? 
-Just run the exe and test with these options!
+Just run the exe and press "Fix"!
 
-![image](https://github.com/ShadowyLycan990/ZenlessZoneZero-render-fix/assets/92839483/085a07f9-7523-4b25-a7ad-4379e57ea676)
+![image](https://github.com/user-attachments/assets/d84c0631-28ef-4532-9276-2c485535cf50)
 
-And you can create shortcut to your desktop so you don't need to open this tool anymore!
 
 
 # Why I created this?
-Because some peoples are still confused when doing the [tutorial](https://www.reddit.com/r/ZZZ_Official/comments/1dtjd4n/i_managed_to_founded_the_way_to_fix_the_crash_of) that I made!
+Because some peoples are still confused when doing the updated crash fix application!
 
 # Download
 Download is on [releases](https://github.com/ShadowyLycan990/ZenlessZoneZero-render-fix/releases)!
