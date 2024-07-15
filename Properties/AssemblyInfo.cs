@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ZZZ Render Fix")]
+[assembly: AssemblyTitle("ZZZ_UnityPlayer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ZZZ Render Fix")]
+[assembly: AssemblyProduct("ZZZ_UnityPlayer")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c349fbaa-58ee-4d7c-81f6-c28fde2d286c")]
+[assembly: Guid("f5537e13-8daf-400e-bb19-e977115f3d35")]
 
 // Version information for an assembly consists of the following four values:
 //

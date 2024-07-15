@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ZZZ_Render_Fix.Properties
+namespace ZZZ_UnityPlayer.Properties
 {
 
 
