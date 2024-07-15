@@ -1,4 +1,4 @@
-# ZenlessZoneZero-render-fix
+# ZenlessZoneZero-crash-fix
 Fix absurd crash of Zenless Zone Zero on certain GPUs by replacing the UnityPlayer file with the updated one!
 
 
