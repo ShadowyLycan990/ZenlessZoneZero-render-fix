@@ -27,9 +27,9 @@ namespace ZZZ_UnityPlayer
         private void DetectGameDirectory()
         {
             string[] registryPaths = {
-                @"Software\Cognosphere\HYP\1_1\nap_global",
-                @"Software\Cognosphere\HYP\1_0\nap_global"
-            };
+        @"Software\Cognosphere\HYP\1_1\nap_global",
+        @"Software\Cognosphere\HYP\1_0\nap_global"
+    };
 
             foreach (string path in registryPaths)
             {
@@ -41,17 +41,26 @@ namespace ZZZ_UnityPlayer
                         if (!string.IsNullOrEmpty(gameDirectory))
                         {
                             richTextBox1.Text = $"Game Directory: {gameDirectory}";
-                            break;
+                            return;
                         }
                     }
                 }
             }
 
-            if (string.IsNullOrEmpty(gameDirectory))
+            using (Form3 form3 = new Form3())
             {
-                richTextBox1.Text = "Game Directory not found!";
+                if (form3.ShowDialog(this) == DialogResult.OK)
+                {
+                    gameDirectory = form3.SelectedDirectory;
+                    richTextBox1.Text = $"Game Directory: {gameDirectory}";
+                }
+                else
+                {
+                    richTextBox1.Text = "Game Directory not found!";
+                }
             }
         }
+
 
         private async void button1_Click(object sender, EventArgs e)
         {
