@@ -1,3 +1,9 @@
+# Obsolete! 
+# Archived cuz HoYoverse finally included the fix since version 1.1 (Undercover R&B)!
+
+
+
+
 # ZenlessZoneZero-crash-fix
 Fix absurd crash of Zenless Zone Zero on certain GPUs by replacing the UnityPlayer file with the updated one!
 
